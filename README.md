@@ -1,6 +1,6 @@
 # Pablo Agustín Bustos 
 Hola!! me Pablo Agustín Bustos, tengo 21 años y soy un desarrollador web FullStack con una fuerte orientación hacia el front-end. Bienvenidos a mi Github!!!
-###Quién Soy
+### Quién Soy
 Me defino como un estudiante eterno ya que siempre estoy aprendiendo con cáda trabajo. Además de eso soy muy autodidacta, ya que me gusta aprender mucho sobre desarrollo web.
 
 **Otros intereses**
@@ -33,3 +33,6 @@ Este proyecto es una app de listas de tarea en javascript vanilla. <br>El objeti
 
 ### 2. Pokedex
 En este proyecto desarrollé una SPA en React que viene a simular una pokedex y lo desarrolle para un bootcamp de desarollo web full stack. <br>La idea del proyecto era una app que muestre pokemons y que el usuario pueda filtrarlos segun el tipo, ordenarlos alfabeticamente, buscar un pokemon en específico y crear un nuevo pokemon que se guardan en una base de datos.<br>El objetivo era implementar la librería de React, Express y sequelize en la realización de una SPA.
+
+## Contacto
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-bustos-/)
