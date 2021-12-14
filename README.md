@@ -1,4 +1,4 @@
-# Pablo Agustín Bustos 
+# :boom: Pablo Agustín Bustos :boom:
 Hola!! me Pablo Agustín Bustos, tengo 21 años y soy un desarrollador web FullStack con una fuerte orientación hacia el front-end. Bienvenidos a mi Github!!!
 ### Quién Soy
 Me defino como un estudiante eterno ya que siempre estoy aprendiendo con cáda trabajo. Además de eso soy muy autodidacta, ya que me gusta aprender mucho sobre desarrollo web.
