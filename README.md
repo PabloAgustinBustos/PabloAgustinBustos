@@ -11,16 +11,17 @@ Me defino como un estudiante eterno ya que siempre estoy aprendiendo con cáda t
 :computer: **Lenguajes y tecnologías que manejo** :computer:
 - HTML
 - CSS
-- Bootstrap
+- MaterialUI
 - Javascript
 - ReactJS
 - Redux
+- Framer-Motion
+- React-Query
 - NodeJS
 - Express
 - PostgreSQL
 - Sequelize
 - Python
-- PHP
 
 ## :sparkler: ¿Cómo llegue aquí? :sparkler:
 Di mis primeros pasos en la programación a los 15 años. A esa edad me gustaban muchos los videojuegos y me surgió la curiosidad de como se creaban. <br>
