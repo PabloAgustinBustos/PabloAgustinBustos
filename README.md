@@ -1,33 +1,30 @@
 # :boom: Pablo Agustín Bustos :boom:
-Hola!! me llamo Pablo Agustín Bustos, tengo 22 años y soy un desarrollador web FullStack con una fuerte orientación hacia el front-end. Bienvenidos a mi Github!!!
+Hola!! me llamo Pablo Agustín Bustos, tengo 23 años, soy un desarrollador web FullStack y estudiante de ingeniería en sistemas de la información. Bienvenidos a mi Github!!!
 ### :smiley: Quién Soy :smiley:
-Me defino como un estudiante eterno ya que siempre estoy aprendiendo con cáda trabajo. Además de eso soy muy autodidacta, ya que me gusta aprender mucho sobre desarrollo web. Actualmente ando trabajando en proyectos personales para obtener experiencia desarrollando.
+Soy una persona muy autodidacta que siempre dedica al menos tres de estudio horas todos los días para reforzar conocimientos y adquirir nuevas habilidades que me puedan servir para desempeñarme en mi vida laboral como desarrollador de software.
 
 :rocket: **Otros intereses** :rocket:
-- Desarrollo mobile
 - Desarrollo de videojuegos
-- Ciencias de datos
+- Desarrollo mobile
+- Análisis de datos
 
 :computer: **Tech-Skills** :computer:
 - HTML & CSS 
-- MaterialUI & Bootstrap
-- Javascript & Typescript
-- ReactJS & vueJS
-- Redux-toolkit & Pinia
-- Framer-Motion
-- React-Query
+- Tailwind
+- Typescript (me gusta más que javascript)
+- ReactJS y su ecosistema de herramientas (zustand, framer-motion)
+- AstroJS
 - NodeJS
 - SocketIO
-- Express
+- ExpressJS
 - PostgreSQL
 - Sequelize
-- Python
-- C#
+- Docker
 
 ## :sparkler: ¿Cómo llegue aquí? :sparkler:
 Di mis primeros pasos en la programación a los 15 años. A esa edad me gustaban muchos los videojuegos y me surgió la curiosidad de como se creaban. <br>
-Luego de ver algunos videos informativos de programación, me cambié a un colegio técnico donde aprendi los primeros temas básicos y como no me conformaba con la educación del colegio, me puse a aprender mucho por mi propia cuenta en internet, indagar algunos temas y seguir aprendiendo.<br>
-Ya con 22 años y mirando para atrás, aprecio mucho el avance que hice y aún queda mucho más.
+Luego de ver algunos videos informativos de programación, me cambié a un colegio técnico donde aprendí los primeros temas básicos y como no me conformaba con la educación de una institución, me puse a aprender mucho por mi propia cuenta en internet, indagar algunos temas y seguir aprendiendo.<br>
+Tuve muchisimos tropiezos, bloqueos y tiempo muerto no aprovechado, sin embargo, con 23 años sigo vivo en el mundo de la programación, estudiando y practicando mucho más que antes para mostrar al mundo de lo que soy capaz.
 
 ## :file_folder: Proyectos :file_folder:
 ### 1. RealTimeChatApp
